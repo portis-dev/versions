@@ -1,6 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "notes": [
-    "Initial release"
+    "Social sharing system (Birdy post & direct message)",
+    "Share triggers: Legendary, Shiny, Badge, Evolution, Level milestone",
+    "YSeries phone support (auto-detection, app registration, messaging)",
+    "Legendary premium card styling (animated glow + shimmer)",
+    "Storage filters (Rarity, Type, Shiny)",
+    "SFX system with 8 sound effects + toggle in Profile",
+    "NavBar responsive fix for small screens",
+    "Server script load order fix"
   ]
 }
