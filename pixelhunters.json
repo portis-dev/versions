@@ -1,13 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "notes": [
-    "Social sharing system (Birdy post & direct message)",
-    "Share triggers: Legendary, Shiny, Badge, Evolution, Level milestone",
-    "YSeries phone support (auto-detection, app registration, messaging)",
-    "Legendary premium card styling (animated glow + shimmer)",
-    "Storage filters (Rarity, Type, Shiny)",
-    "SFX system with 8 sound effects + toggle in Profile",
-    "NavBar responsive fix for small screens",
-    "Server script load order fix"
+    "Leaderboard system — 4 categories (Catches, Level, Shiny, Species)",
+    "Hunter Name editable from Profile",
+    "Guided Tour — 24-step interactive onboarding",
+    "16 new creatures, 6 new daily quests, 5 new weekly quests",
+    "Multi-language support — add locales/{lang}.json",
+    "Balance: lower catch rates, higher candy costs, premium legendaries",
+    "DB migration required: 2 new columns in ph_players"
   ]
 }
