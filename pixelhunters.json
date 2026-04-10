@@ -1,12 +1,15 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "notes": [
-    "Leaderboard system — 4 categories (Catches, Level, Shiny, Species)",
-    "Hunter Name editable from Profile",
-    "Guided Tour — 24-step interactive onboarding",
-    "16 new creatures, 6 new daily quests, 5 new weekly quests",
-    "Multi-language support — add locales/{lang}.json",
-    "Balance: lower catch rates, higher candy costs, premium legendaries",
-    "DB migration required: 2 new columns in ph_players"
+    "[New] 11 new creatures: Water (Ripplit→Waveclaw→Torrentus→Pelagorn), Dark (Gloomkit→Nyxprowl→Nycterax→Eclipsara), Rock (Rubblitt→Craggor→Monolithon)",
+    "[New] 17mov_Phone and lb-tablet support added",
+    "[New] Phone notification system added (streak reminders, legendary spawns, leaderboard overtake, daily/weekly reset)",
+    "[Balance] Candy requirements increased — evolution now takes longer",
+    "[Balance] Reduced spawn density on the map",
+    "[Balance] Evolution level of new creatures set higher",
+    "[Fix] Various phone compatibility issues resolved",
+    "[Fix] Language parameter replacement issue resolved",
+    "[Fix] Discord webhook URLs moved to server-only config file — no longer exposed to clients",
+    "[Fix] Discord webhook logger is now open-source (not escrow'd) — fully customizable"
   ]
 }
