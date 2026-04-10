@@ -1,15 +1,14 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "notes": [
-    "[New] 11 new creatures: Water (Ripplit→Waveclaw→Torrentus→Pelagorn), Dark (Gloomkit→Nyxprowl→Nycterax→Eclipsara), Rock (Rubblitt→Craggor→Monolithon)",
-    "[New] 17mov_Phone and lb-tablet support added",
-    "[New] Phone notification system added (streak reminders, legendary spawns, leaderboard overtake, daily/weekly reset)",
-    "[Balance] Candy requirements increased — evolution now takes longer",
-    "[Balance] Reduced spawn density on the map",
-    "[Balance] Evolution level of new creatures set higher",
-    "[Fix] Various phone compatibility issues resolved",
-    "[Fix] Language parameter replacement issue resolved",
-    "[Fix] Discord webhook URLs moved to server-only config file — no longer exposed to clients",
-    "[Fix] Discord webhook logger is now open-source (not escrow'd) — fully customizable"
+    "[New] Phone bridge rewrite — cleaner architecture, adding custom phone support is now much easier",
+    "[New] lb-tablet can now run simultaneously with any phone (lb-phone, gksphone, yseries, 17mov_phone)",
+    "[New] Social sharing split into two independent toggles: SocialPost + SocialMessage",
+    "[New] Phone config documentation added inline in config.lua",
+    "[Fix] Fast tab switching no longer causes empty screens (NUI callback timeout issue resolved)",
+    "[Fix] Login streak date check crash fixed",
+    "[Fix] App startup no longer triggers unnecessary server calls",
+    "[Fix] Login streak flow and notification system stabilized",
+    "[Fix] SharePopup adapted for all phone types"
   ]
 }
