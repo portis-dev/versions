@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "changelog": "Bug fixes, yflip-phone/yphone support"
+    "version": "1.0.2",
+    "changelog": "ox_lib type error, “Failed to fetch” log spam. problems have been solved"
 }
