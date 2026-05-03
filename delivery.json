@@ -1,4 +1,4 @@
 {
-    "version": "1.0.2",
-    "changelog": "ox_lib type error, “Failed to fetch” log spam. problems have been solved"
+  "version": "1.0.3",
+  "changelog": "codem-phone integration added, XP & progression exports added (GetXP, GetLevel, GetXPForNextLevel, GetPlayerStats, AddXP, RemoveXP, SetXP, SetLevel)"
 }
