@@ -1,19 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "notes": [
-    "[New] Supply Points — 12 fixed POIs across Los Santos and Blaine County with free item collection",
-    "[New] Supply Points — collect items by entering a 65 radius green leaf marker",
-    "[New] Supply Points — 30-minute per-player cooldown after each collection",
-    "[New] Supply Points — fully configurable via config/supply.lua (add/remove/reposition)",
-    "[New] Supply Points — reward pool (weighted): 3× Fiber Net (50%), 5× Fiber Net (20%), 1× Berry Bait (25%), 1× Energy Snare (5%)",
-    "[New] Supply Points — each collection grants +25 XP",
-    "[New] Phone integrations — fixes for Yflip and Yphone",
-    "[New] Phone integrations — support added for codem-phone and cylex-phone",
-    "[New] 6 new creatures — Dragon and Bug types with 4-stage evolution lines",
-    "[New] New Dragon evolution line — Drakling → Wyrmite → Dracolord",
-    "[New] New Bug evolution line — Grublet → Pincermid → Beetorax",
-    "[Fix] Nexus hourly rewards not being granted issue resolved",
-    "[Fix] Map pin label text overflow (Nexus/Supply Points) fixed",
-    "[Improvement] Capture net selection — now defaults to lowest tier and sorted visually from best to worst"
+    "[New] A configuration has been added that allows the creature to be seen and captured while inside the vehicle",
+    "[Fix] Redesigned the shop list UX",
+    "[Fix] Fixed an issue where the supply marker did not appear instantly on the map",
   ]
 }
