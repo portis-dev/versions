@@ -1,8 +1,11 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "notes": [
-    "[New] A configuration has been added that allows the creature to be seen and captured while inside the vehicle",
-    "[Fix] Redesigned the shop list UX",
-    "[Fix] Fixed an issue where the supply marker did not appear instantly on the map",
+    "[New] Trading system added: players can create and accept creature trade offers",
+    "[New] Leaderboard screen added to track top trainers and rankings",
+    "[New] New species and sprite assets added to expand the creature roster",
+    "[Fix] Collection and database sync improvements for more reliable storage updates",
+    "[Fix] Localization files updated and expanded for multi-language consistency",
+    "[Fix] Home and shop UI flow refined for a cleaner in-phone user experience"
   ]
 }
