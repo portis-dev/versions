@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
-  "changelog": "codem-phone integration added, XP & progression exports added (GetXP, GetLevel, GetXPForNextLevel, GetPlayerStats, AddXP, RemoveXP, SetXP, SetLevel)"
+  "version": "1.0.4",
+  "changelog": "Zone filtering fixed"
 }
