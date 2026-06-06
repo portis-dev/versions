@@ -1,6 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": [
-    "[New] Initial AFTERHOURS release — events, RSVP, geofenced check-in, cover charge payouts"
+    "[FIX] Flyer images disappearing after page navigation",
+    "[NEW] An image enlargement option has been added to the details page."
   ]
 }
