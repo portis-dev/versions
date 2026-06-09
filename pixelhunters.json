@@ -1,12 +1,11 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "notes": [
-    "[New] Combat Power (CP) and creature levels (1–40) — strength shown in wild encounters, Storage, and Nexus combat",
-    "[New] Weave the Net — 12-stitch catch minigame replaces the hold-and-release sync bar; net launch and trap sequence polish after weaving",
-    "[New] Supply Beacon — deploy Tundra Pulse, Wildwood Pulse, or Charge Field at Supply Points for shared spawn boosts (shop + map)",
-    "[New] Hunter Charm — personal mobile lure with owner-only spawns; earn from level rewards, milestones, streaks, and quests",
-    "[Improvement] Storage screen fully redesigned — card grid, sort, full-screen detail with CP arc, appraisal sheet, evolve/candy bar",
-    "[Improvement] Legacy creature sprites redrawn for visual consistency",
-    "[Fix] AllowVehicleTypes whitelist now applies correctly when AllowInVehicle is disabled",
+    "[New] Raid Boss (Prime Clash) — shared map boss fights for up to 5 hunters with one HP pool; mid-fight joins keep the current HP ratio",
+    "[New] Post-raid catch phase — 5 balls, boosted catch rate, XP, rare candy, and species candy rewards",
+    "[New] Raid bosses and spawn points in config/raids.lua — Prime Solarchis, Prime Abyssoth, Prime Drakoval, and more; auto-spawn scheduler ",
+    "[New] Daily raid limit (RaidsPerDay) tracked per player",
+    "[New] 4 evolution chains — Water (Axolune → Crystolune → Abyssalune), Dark (Shrubble → Nightrix), Psychic (Owlei → Psiwing → Aethera), Grass (Bloomlet → Thornhop → Petalstorm)",
+    "[New] 4 raid badges — first join, first win, 10 raids, 50 raids"
   ]
 }
