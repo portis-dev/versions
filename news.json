@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": [
-    "[New] Initial Portis News release — reporter editor, sponsor ads, earnings, following feed"
+    "[FIX] 17mov_Phone fix: App icon switched from PNG to SVG (required by 17mov). Added iconBackground for the home-screen tile."
   ]
 }
