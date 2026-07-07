@@ -1,11 +1,13 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "notes": [
-    "[New] Raid Boss (Prime Clash) — shared map boss fights for up to 5 hunters with one HP pool; mid-fight joins keep the current HP ratio",
-    "[New] Post-raid catch phase — 5 balls, boosted catch rate, XP, rare candy, and species candy rewards",
-    "[New] Raid bosses and spawn points in config/raids.lua — Prime Solarchis, Prime Abyssoth, Prime Drakoval, and more; auto-spawn scheduler ",
-    "[New] Daily raid limit (RaidsPerDay) tracked per player",
-    "[New] 4 evolution chains — Water (Axolune → Crystolune → Abyssalune), Dark (Shrubble → Nightrix), Psychic (Owlei → Psiwing → Aethera), Grass (Bloomlet → Thornhop → Petalstorm)",
-    "[New] 4 raid badges — first join, first win, 10 raids, 50 raids"
+    "[New] Hunter Duel system — players can now challenge nearby hunters to direct 1v1 battles",
+    "[New] Casual and Ranked Duel modes — supports both friendly fights and competitive PvP play",
+    "[New] Duel flow improvements — includes invite, matchmaking, queue, and ready-up flow for smoother PvP interactions",
+    "[New] Duel stats added to progression — profiles and leaderboards now reflect duel performance",
+    "[New] Expanded currency support — more flexibility for custom server economy setups",
+    "[Improved] Home action menu refreshed for quicker and cleaner access to key gameplay actions",
+    "[Improved] UI and gameplay flow polish across multiple screens for a smoother overall experience",
+    "[Improved] Localization update — supported languages were refreshed and missing translations were completed"
   ]
 }
