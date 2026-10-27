@@ -1,13 +1,13 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "notes": [
-    "[New] Arena Ladder is now available for Ranked Duels.",
-    "[New] Players can queue for rated matches and climb through rating tiers",
-    "[New] Weekly Seasons have been added",
-    "[New] Weekly leaderboards, season rollover, archived rankings, and claimable rewards are now supported",
-    "[New] End-of-season Arena rewards and hunter title rewards have been added",
-    "[Improved] Profile screen has been redesigned with a cleaner, shorter tabbed layout.",
-    "[Improved] Leaderboard screen navigation and readability have been improved.",
-    "[Improved] Encounter feedback has been improved for shiny, legendary, break, flee, and catch moments"
+    "[New] Seasonal Events have been added: limited-time events that run on a yearly date window or by admin command.",
+    "[New] Halloween Hunt is the first event pack and starts automatically from Oct 24 to Nov 2 (dates are configurable).",
+    "[New] During Halloween, ghost, dark and poison creatures spawn more often and shiny odds are doubled.",
+    "[New] Ghost, dark and poison creatures can now appear in roaming spawns while the event is active.",
+    "[New] 9 new event-only creatures in 3 evolution lines have been added",
+    "[Improved] The app switches to a Halloween theme with an event banner, countdown and bats over the map.",
+    "[Improved] During Halloween the map turns into a darker night map, with matching map buttons and an orange catch-range circle.",
+    "[Improved] The weather popup now shows which types are boosted by the active event"
   ]
 }
